@@ -1,4 +1,4 @@
-# secure_messaging — Messagerie sécurisée hybride (Aya benjeddou MPSSI2)
+# secure_messaging — Messagerie sécurisée hybride (Aya benjeddou MPSSI2(Mastère Professionnel en Sécurité des Systèmes Informatiques (MPSSI 2) )
 
 
 Ce projet permet à Alice d’envoyer un message sécurisé à Bob en utilisant RSA 
