@@ -60,3 +60,4 @@ Ou simplement : `bash demo.sh`
 
 ## Limites
 Pas de PKI : les clés publiques sont échangées « hors bande » et supposées authentiques. Pas de protection contre le rejeu (pas d'horodatage/identifiant de message), pas de forward secrecy, pas de métadonnées protégées.
+
