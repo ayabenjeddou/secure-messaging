@@ -1,0 +1,16 @@
+
+# Clés privées
+*_priv.pem
+
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Fichiers secrets
+.env
+
+# Fichiers générés
+message.pkg
+recovered.txt
